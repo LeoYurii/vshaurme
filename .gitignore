@@ -1,5 +1,8 @@
 cat .gitignore
+# Исключение системных файлов
+*/.idea
+*/.vscode
+*/.DS_Store
 
-*.idea/
-*.vscode/
-*.DS_Store/
+# Исключение файлов бд
+*.sqlite3
