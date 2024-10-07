@@ -6,3 +6,4 @@ cat .gitignore
 
 # Исключение файлов бд
 *.sqlite3
+/vshaurme/*db.sqlite3
