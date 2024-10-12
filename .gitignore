@@ -1,4 +1,3 @@
-cat .gitignore
 # Исключение системных файлов
 */.idea
 */.vscode
@@ -6,3 +5,4 @@ cat .gitignore
 
 # Исключение файлов бд
 *.sqlite3
+/vshaurme/*db.sqlite3
